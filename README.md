@@ -1,10 +1,8 @@
 Hey - I'm Alex, a student at Virginia Tech.
 
-I like working on impactful software. Previously, I was a SWE intern at Appian and General Dynamics.
-
 I'm currently building Projexity, a platform for project-based learning in an AI-powered web IDE. Try it here: https://projexity.dev/
 
-Here are some other things I've built:
+some of my other projects:
 - Quest: A social media app that brings 'leveling up' to real life
   - Firebase / React Native
   - Devpost: [here](https://devpost.com/software/quest-4pho0a)
