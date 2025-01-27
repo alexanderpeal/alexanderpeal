@@ -1,6 +1,6 @@
 Hey - I'm Alex, a student at Virginia Tech.
 
-I'm currently building Projexity, a platform for project-based learning in an AI-powered web IDE. Try it here: https://projexity.dev/
+I helped build Projexity, a platform for project-based learning in an AI-powered web IDE. Try it here: https://projexity.dev/
 
 some of my other projects:
 - Quest: A social media app that brings 'leveling up' to real life
