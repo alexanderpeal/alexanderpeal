@@ -2,7 +2,7 @@ Hey - I'm Alex, a student at Virginia Tech and aspiring engineer.
 
 I helped build Projexity, a platform for project-based learning in an AI-powered web IDE. Try it here: https://projexity.dev/
 
-some of my other projects:
+Check out some of my other projects:
 - Quest: A social media app that brings 'leveling up' to real life
   - Firebase / React Native
   - Devpost: [here](https://devpost.com/software/quest-4pho0a)
